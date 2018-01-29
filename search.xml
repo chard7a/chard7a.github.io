@@ -3,6 +3,34 @@
   
     
     <entry>
+      <title><![CDATA[Docker必须使用sudo操作的解决方案]]></title>
+      <url>/2018/01/29/Docker%E5%BF%85%E9%A1%BB%E4%BD%BF%E7%94%A8sudo%E6%93%8D%E4%BD%9C%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</url>
+      <content type="html"><![CDATA[<ol>
+<li>创建docker组：<code>sudo groupadd docker</code></li>
+<li>将当前用户加入docker组：<code>sudo gpasswd -a ${USER} docker</code></li>
+<li><p>重启服务：<code>sudo service docker restart</code></p>
+</li>
+<li><p>刷新docker成员：<code>newgrp - docker</code> </p>
+</li>
+</ol>
+]]></content>
+      
+        <categories>
+            
+            <category> docker </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> docker </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[用docker环境变量配置java 项目配置文件]]></title>
       <url>/2018/01/29/%E7%94%A8docker%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%85%8D%E7%BD%AEjava-%E9%A1%B9%E7%9B%AE%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</url>
       <content type="html"><![CDATA[<p>解决方法</p>
@@ -32,6 +60,12 @@
   
     
     <entry>
+      <title><![CDATA[links]]></title>
+      <url>/links/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[gallery]]></title>
       <url>/gallery/index.html</url>
       <content type="html"></content>
@@ -46,12 +80,6 @@
     <entry>
       <title><![CDATA[timeline]]></title>
       <url>/timeline/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[links]]></title>
-      <url>/links/index.html</url>
       <content type="html"></content>
     </entry>
     
