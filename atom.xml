@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chard7a.github.io/"/>
-  <updated>2018-01-29T10:16:58.000Z</updated>
+  <updated>2018-01-29T10:26:14.000Z</updated>
   <id>https://chard7a.github.io/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Full step to create a docker registry server with cert&amp;auth</title>
+    <link href="https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-auth/"/>
+    <id>https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-auth/</id>
+    <published>2018-01-29T10:21:56.000Z</published>
+    <updated>2018-01-29T10:26:14.000Z</updated>
+    
+    <summary type="html">
+    
+      docker
+    
+    </summary>
+    
+      <category term="docker" scheme="https://chard7a.github.io/categories/docker/"/>
+    
+    
+      <category term="docker" scheme="https://chard7a.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Authenticate proxy with nginx</title>
+    <link href="https://chard7a.github.io/2018/01/29/Authenticate-proxy-with-nginx/"/>
+    <id>https://chard7a.github.io/2018/01/29/Authenticate-proxy-with-nginx/</id>
+    <published>2018-01-29T10:20:50.000Z</published>
+    <updated>2018-01-29T10:21:24.000Z</updated>
+    
+    <summary type="html">
+    
+      docker
+    
+    </summary>
+    
+      <category term="docker" scheme="https://chard7a.github.io/categories/docker/"/>
+    
+    
+      <category term="docker" scheme="https://chard7a.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简易docker私有仓库搭建</title>
+    <link href="https://chard7a.github.io/2018/01/29/%E7%AE%80%E6%98%93docker%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93%E6%90%AD%E5%BB%BA/"/>
+    <id>https://chard7a.github.io/2018/01/29/简易docker私有仓库搭建/</id>
+    <published>2018-01-29T10:18:53.000Z</published>
+    <updated>2018-01-29T10:20:08.000Z</updated>
+    
+    <summary type="html">
+    
+      docker
+    
+    </summary>
+    
+      <category term="docker" scheme="https://chard7a.github.io/categories/docker/"/>
+    
+    
+      <category term="docker" scheme="https://chard7a.github.io/tags/docker/"/>
+    
+  </entry>
   
   <entry>
     <title>Docker必须使用sudo操作的解决方案</title>
