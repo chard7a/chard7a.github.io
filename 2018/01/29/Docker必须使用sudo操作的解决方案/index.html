@@ -243,7 +243,7 @@
 
     
         <meta property="article:published_time" content="Mon Jan 29 2018 18:13:53 GMT+0800">
-        <meta property="article:modified_time" content="Mon Jan 29 2018 18:14:25 GMT+0800">
+        <meta property="article:modified_time" content="Mon Jan 29 2018 18:16:58 GMT+0800">
     
 
     <!-- The Twitter Card protocol -->
@@ -266,7 +266,7 @@
     "mainEntityOfPage": "https://chard7a.github.io/2018/01/29/Docker必须使用sudo操作的解决方案/index.html",
     "headline": "Docker必须使用sudo操作的解决方案",
     "datePublished": "Mon Jan 29 2018 18:13:53 GMT+0800",
-    "dateModified": "Mon Jan 29 2018 18:14:25 GMT+0800",
+    "dateModified": "Mon Jan 29 2018 18:16:58 GMT+0800",
     "author": {
         "@type": "Person",
         "name": "ChardTa",
@@ -498,12 +498,10 @@
                 <div id="post-content" class="mdl-color-text--grey-700 mdl-card__supporting-text fade out">
     
         <ol>
-<li>创建docker组：<code>sudo groupadd docker</code></li>
-<li>将当前用户加入docker组：<code>sudo gpasswd -a ${USER} docker</code></li>
-<li><p>重启服务：<code>sudo service docker restart</code></p>
-</li>
-<li><p>刷新docker成员：<code>newgrp - docker</code> </p>
-</li>
+<li>创建docker组：<code>sudo groupadd docker</code>  </li>
+<li>将当前用户加入docker组：<code>sudo gpasswd -a ${USER} docker</code>  </li>
+<li>重启服务：<code>sudo service docker restart</code>  </li>
+<li>刷新docker成员：<code>newgrp - docker</code>  </li>
 </ol>
 
         
