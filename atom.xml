@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chard7a.github.io/"/>
-  <updated>2018-01-29T10:28:37.098Z</updated>
+  <updated>2018-01-30T05:04:02.171Z</updated>
   <id>https://chard7a.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Full step to create a docker registry server with cert&amp;auth</title>
-    <link href="https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-auth/"/>
-    <id>https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-auth/</id>
+    <title>Full step to create a docker registry server with cert and auth</title>
+    <link href="https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-and-auth/"/>
+    <id>https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-and-auth/</id>
     <published>2018-01-29T10:21:56.000Z</published>
-    <updated>2018-01-29T10:28:37.098Z</updated>
+    <updated>2018-01-30T05:04:02.171Z</updated>
     
     <summary type="html">
     

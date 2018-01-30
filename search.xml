@@ -3,8 +3,8 @@
   
     
     <entry>
-      <title><![CDATA[Full step to create a docker registry server with cert&auth]]></title>
-      <url>/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-auth/</url>
+      <title><![CDATA[Full step to create a docker registry server with cert and auth]]></title>
+      <url>/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-and-auth/</url>
       <content type="html"><![CDATA[<ol>
 <li>centos iso:</li>
 </ol>

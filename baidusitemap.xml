@@ -3,14 +3,12 @@
 
 
     
-    
-    
   <url>
-    <loc>https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-auth/</loc>
-    <lastmod>2018-01-29T10:28:37.098Z</lastmod>
+    <loc>https://chard7a.github.io/2018/01/29/Full-step-to-create-a-docker-registry-server-with-cert-and-auth/</loc>
+    <lastmod>2018-01-30T05:04:02.171Z</lastmod>
     <data>
         <display>
-        <title>Full step to create a docker registry server with cert&auth</title>
+        <title>Full step to create a docker registry server with cert and auth</title>
         <pubTime>2018-01-29T10:21:56.000Z</pubTime>
         
         <tag>docker</tag>
@@ -24,6 +22,8 @@
     </data>
     </url>
 
+    
+    
     
   <url>
     <loc>https://chard7a.github.io/2018/01/29/Authenticate-proxy-with-nginx/</loc>
